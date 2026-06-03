@@ -26,10 +26,10 @@ This GitHub is where I share sanitized scripts, integration templates, and opera
 
 | Repo | Description |
 |---|---|
-| [sailpoint-idn-scripts](https://github.com/gksaurav/sailpoint-idn-scripts) | Python scripts for SailPoint IDN — API automation, provisioning helpers, bulk operations |
-| [iam-app-onboarding-templates](https://github.com/gksaurav/iam-app-onboarding-templates) | SAML / OIDC / SCIM integration templates and attribute mapping guides |
-| [identity-lookup-tool](https://github.com/gksaurav/identity-lookup-tool) | CLI tool to query identity data across multiple IAM backends |
-| [iam-resources](https://github.com/gksaurav/iam-resources) | Curated runbooks, governance frameworks, and IAM reference material |
+| [sailpoint-idn-scripts](https://github.com/gksaurav-iam/sailpoint-idn-scripts) | Python scripts for SailPoint IDN — API automation, provisioning helpers, bulk operations |
+| [iam-app-onboarding-templates](https://github.com/gksaurav-iam/iam-app-onboarding-templates) | SAML / OIDC / SCIM integration templates and attribute mapping guides |
+| [identity-lookup-tool](https://github.com/gksaurav-iam/identity-lookup-tool) | CLI tool to query identity data across multiple IAM backends |
+| [iam-resources](https://github.com/gksaurav-iam/iam-resources) | Curated runbooks, governance frameworks, and IAM reference material |
 
 ---
 
