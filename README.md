@@ -30,6 +30,7 @@ This GitHub is where I share sanitized scripts, integration templates, and opera
 | [iam-app-onboarding-templates](https://github.com/gksaurav-iam/iam-app-onboarding-templates) | SAML / OIDC / SCIM integration templates and attribute mapping guides |
 | [identity-lookup-tool](https://github.com/gksaurav-iam/identity-lookup-tool) | CLI tool to query identity data across multiple IAM backends |
 | [iam-resources](https://github.com/gksaurav-iam/iam-resources) | Curated runbooks, governance frameworks, and IAM reference material |
+| [iam-interview-prep](https://github.com/gksaurav-iam/iam-interview-prep) | SailPoint ISC interview prep — LDAP, SAML, OIDC, IGA, transforms, workflows, Python scripts |
 
 ---
 
